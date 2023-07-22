@@ -7,4 +7,5 @@ urlpatterns = [
     path('api/v1/', include('Mixins2.urls')),
     path('api/v1/', include('Mixins3.urls')),
     path('api/v1/', include('Mixins4.urls')),
+    path('api/v1/', include('Mixins5.urls')),
 ]

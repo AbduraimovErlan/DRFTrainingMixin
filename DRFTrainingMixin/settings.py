@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'Mixins2',
     'Mixins3',
     'Mixins4',
+    'Mixins5',
 ]
 
 MIDDLEWARE = [
