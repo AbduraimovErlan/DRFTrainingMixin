@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'Mixins1',
     'Mixins2',
+    'Mixins3',
 ]
 
 MIDDLEWARE = [
